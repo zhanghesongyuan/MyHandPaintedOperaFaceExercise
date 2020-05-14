@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的戏曲脸谱DIY手绘练习
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyHandPaintedOperaFaceExercise/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+脸谱是我国独特的一种绘画艺术，在古装戏曲中，主要指净角用各种色彩在脸上勾画一定的图案，形成演员面部一种特定的谱式。喜欢戏曲脸谱的人常常会自己绘制独特的脸谱，如果你也喜欢脸谱，你可以利用这个工具帮助你练习和理解戏曲脸谱的艺术。你可以记录每次绘制脸谱的类别，比如秦腔脸谱、耿家脸谱等不同特点风格和形象特点，帮助你练习和体会不同谱式的美感和文化寓意。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyHandPaintedOperaFaceExercise/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
